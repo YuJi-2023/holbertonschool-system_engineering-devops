@@ -2,17 +2,17 @@
 
 This repository contains documentation on various concepts related to network infrastructure and web development. The documentation covers the following topics:
 
-1. Network Basics Concept Page: This page provides an overview of fundamental concepts in networking, including protocols, IP addresses, and network topologies.
+1. Network Basics Concept: fundamental concepts in networking, including protocols, IP addresses, and network topologies.
 
-2. Server Concept Page: This page explains the concept of servers and their role in handling client requests and providing resources or services.
+2. Server Concept: the concept of servers and their role in handling client requests and providing resources or services.
 
-3. Web Server Concept Page: This page focuses on web servers, which are specialized servers that deliver web content to clients, handling HTTP requests and responses.
+3. Web Server Concept: focuses on web servers, which are specialized servers that deliver web content to clients, handling HTTP requests and responses.
 
-4. DNS Concept Page: This page explores the Domain Name System (DNS) and its role in translating domain names into IP addresses.
+4. DNS Concept: This page explores the Domain Name System (DNS) and its role in translating domain names into IP addresses.
 
-5. Load Balancer Concept Page: This page discusses load balancers, which distribute incoming network traffic across multiple servers to enhance performance and ensure high availability.
+5. Load Balancer Concept: This page discusses load balancers, which distribute incoming network traffic across multiple servers to enhance performance and ensure high availability.
 
-6. Monitoring Concept Page: This page covers the concept of monitoring, including various tools and techniques used to track the health and performance of systems.
+6. Monitoring Concept: This page covers the concept of monitoring, including various tools and techniques used to track the health and performance of systems.
 
 7. What is a Database: This page provides an overview of databases, their purpose, and different types, such as relational databases, NoSQL databases, and object-oriented databases.
 
